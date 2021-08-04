@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118572264172",
+    "project_id": "socio-338ad",
+    "storage_bucket": "socio-338ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118572264172:android:3dc02788efd6f2aeced3c9",
+        "android_client_info": {
+          "package_name": "com.example.socio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118572264172-115kma5e9t8ufpug218i7m3r6qleunq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-j1sYOVcIj9vP7viUlUrBurGtDKZ9ark"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118572264172-115kma5e9t8ufpug218i7m3r6qleunq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
